@@ -1,4 +1,5 @@
 🚀 Developer Profile Showcase
+
 🏆 Key Projects
 
 MARIN.exe Portfolio - Gamified interactive portfolio with 3D environments, achievement systems, and AI chatbot integration using React and Three.js.
@@ -9,9 +10,13 @@ Programming Language Compiler - Custom compiler implementation with lexical anal
 Pet Sitter Platform - Real-time booking system connecting pet owners with sitters, featuring live notifications and response tracking.
 
 💻 Technical Skills
+
 Languages: JavaScript, Python, C++, HTML/CSS
+
 Frameworks: React, Node.js, Express, TensorFlow
+
 Tools: MongoDB, Docker, AWS Lambda, Three.js, Supabase
+
 Specialties: Full-stack development, ML/AI, voice interfaces, 3D graphics
 
 🌍 Background
