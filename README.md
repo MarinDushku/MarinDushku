@@ -4,7 +4,7 @@
 
 🏆 Key Projects
 
-MARIN.exe Portfolio - Gamified interactive portfolio with 3D environments, achievement systems, and AI chatbot integration using React and Three.js.
+MARIN.exe Portfolio - Gamified interactive portfolio with 3D environments, achievement systems, and a chatbot integration using React and Three.js.
 
 OpenBCI Brainwave Analyzer - Research application collecting real-time brainwave data with Docker integration and TensorFlow analysis for neuroscience studies.
 
