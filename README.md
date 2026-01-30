@@ -1,4 +1,4 @@
-# Hi, I'm Marin 
+# Hi, I'm Marin       ![](https://komarev.com/ghpvc/?username=MarinDushku&color=blue&style=for-the-badge)
 
 Computer Science student at Adelphi University specializing in **cybersecurity**, **AI research**, and **full-stack development**. Originally from Albania, currently building in New York.
 
@@ -28,7 +28,7 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 
 ##GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=MarinDushku&color=blue&style=for-the-badge)
+
 ---
 
 *Currently working on Stride and building engaging user experiences*
