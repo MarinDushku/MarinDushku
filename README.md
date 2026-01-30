@@ -28,7 +28,7 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 
 ##GitHub Stats
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.visitorbadge.io/api/visitors?path=MarinDushku&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MarinDushku&label=Profile%20Views&color=0e75b6&style=flat-square)
 ---
 
 *Currently working on Stride and building engaging user experiences*
