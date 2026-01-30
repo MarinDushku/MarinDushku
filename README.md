@@ -27,9 +27,6 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 
 [Portfolio](https://mdushku.com) • [LinkedIn](https://www.linkedin.com/in/marin-dushku-436bb4186/) • [Email](mailto:dushkumarini@gmail.com)
 
-##GitHub Stats
-
-
 ---
 
 *Currently working on Stride and building engaging user experiences*
