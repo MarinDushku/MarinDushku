@@ -28,7 +28,7 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 
 ##GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarinDushku&label=Profile%20Views&color=0e75b6&style=flat-square)
+![](https://komarev.com/ghpvc/?username=MarinDushku&color=blue&style=for-the-badge)
 ---
 
 *Currently working on Stride and building engaging user experiences*
