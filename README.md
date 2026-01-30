@@ -11,7 +11,8 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 **[OpenBCI Brainwave Analyzer](https://github.com/MarinDushku/SAGE)** - Research application for real-time brainwave data collection.
 
 **[Shopify Clone](https://github.com/MarinDushku/Games-Library)** - Full-stack e-commerce platform with payment processing and inventory management.
-**[More...](https://github.com/MarinDushku?tab=repositories)
+
+**[More...](https://github.com/MarinDushku?tab=repositories)**
 
 ## Tech Stack
 
