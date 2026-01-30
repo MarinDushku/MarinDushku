@@ -1,8 +1,8 @@
-# Hi, I'm Marin 👋
+# Hi, I'm Marin 
 
 Computer Science student at Adelphi University specializing in **cybersecurity**, **AI research**, and **full-stack development**. Originally from Albania, currently building in New York.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **[STRIDE](https://github.com/MarinDushku/STRIDE)** - AI-powered soccer analytics platform using computer vision to generate professional performance metrics for youth teams
 
@@ -12,7 +12,7 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 
 **[Shopify Clone](https://github.com/MarinDushku/Games-Library)** - Full-stack e-commerce platform with payment processing and inventory management (MERN stack)
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, C++, Java, SQL
 
@@ -22,10 +22,15 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 
 **Tools:** Docker, AWS Lambda, TensorFlow, Git
 
-## 📫 Connect
+## Connect
 
-[Portfolio](https://mdushku.com) • [LinkedIn]([https://linkedin.com/in/marindushku](https://www.linkedin.com/in/marin-dushku-436bb4186/)) • [Email](mailto:dushkumarini@gmail.com)
+[Portfolio](https://mdushku.com) • [LinkedIn](https://www.linkedin.com/in/marin-dushku-436bb4186/) • [Email](mailto:dushkumarini@gmail.com)
 
+##GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MarinDushku&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MarinDushku&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinDushku&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 *Currently working on Stride and building engaging user experiences*
