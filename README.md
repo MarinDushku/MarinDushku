@@ -4,13 +4,14 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 
 ## Featured Projects
 
-**[STRIDE](https://github.com/MarinDushku/STRIDE)** - AI-powered soccer analytics platform using computer vision to generate professional performance metrics for youth teams
+**[STRIDE](https://github.com/MarinDushku/STRIDE)** - AI-powered soccer analytics platform using computer vision to generate professional performance metrics.
 
-**[MARIN.exe Portfolio](https://mdushku.com)** - Gamified 3D portfolio with achievement systems and chatbot integration built with React and Three.js
+**[MARIN.exe Portfolio](https://mdushku.com)** - Personal site, working as an online CV.
 
-**[OpenBCI Brainwave Analyzer](https://github.com/MarinDushku/SAGE)** - Research application for real-time brainwave data collection with TensorFlow analysis
+**[OpenBCI Brainwave Analyzer](https://github.com/MarinDushku/SAGE)** - Research application for real-time brainwave data collection.
 
-**[Shopify Clone](https://github.com/MarinDushku/Games-Library)** - Full-stack e-commerce platform with payment processing and inventory management (MERN stack)
+**[Shopify Clone](https://github.com/MarinDushku/Games-Library)** - Full-stack e-commerce platform with payment processing and inventory management.
+**[More...](https://github.com/MarinDushku?tab=repositories)
 
 ## Tech Stack
 
