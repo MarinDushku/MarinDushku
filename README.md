@@ -1,4 +1,4 @@
-<img src="./border.svg" width="100%" />
+<img src="./border.svg" width="100%" 
 # Hi, I'm Marin  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            ![](https://komarev.com/ghpvc/?username=MarinDushku&color=blue&style=for-the-badge)
 
 Computer Science student at Adelphi University specializing in **cybersecurity**, **AI research**, and **full-stack development**. Originally from Albania, currently building in New York.
@@ -43,3 +43,4 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarinDushku/MarinDushku/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MarinDushku/MarinDushku/output/github-contribution-grid-snake.svg" />
 </picture>
+/>
