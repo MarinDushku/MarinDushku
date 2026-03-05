@@ -12,6 +12,8 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 
 **[Shopify Clone](https://github.com/MarinDushku/Games-Library)** - Full-stack e-commerce platform with payment processing and inventory management.
 
+**[MassCourts+](https://github.com/mrsinani/masscourtsplusplus)** - MassCourts+ is a natural language search engine for Massachusetts court records, going beyond limited searches to get you everything you ask for, the way you ask for it.
+
 **[More...](https://github.com/MarinDushku?tab=repositories)**
 
 ## Tech Stack
