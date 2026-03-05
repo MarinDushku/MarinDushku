@@ -1,3 +1,4 @@
+<img src="./border.svg" width="100%" />
 # Hi, I'm Marin  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            ![](https://komarev.com/ghpvc/?username=MarinDushku&color=blue&style=for-the-badge)
 
 Computer Science student at Adelphi University specializing in **cybersecurity**, **AI research**, and **full-stack development**. Originally from Albania, currently building in New York.
