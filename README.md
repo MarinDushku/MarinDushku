@@ -33,4 +33,6 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 ---
 
 *Currently working on Stride and building engaging user experiences*
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+---
+![Snake animation](https://github.com/tMarinDushku/MarinDushku/blob/output/github-contribution-grid-snake.svg)
