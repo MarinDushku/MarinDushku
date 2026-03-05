@@ -35,4 +35,10 @@ Computer Science student at Adelphi University specializing in **cybersecurity**
 *Currently working on Stride and building engaging user experiences*
 
 ---
-![Snake animation](https://github.com/MarinDushku/MarinDushku/blob/output/github-contribution-grid-snake.svg)
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarinDushku/MarinDushku/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarinDushku/MarinDushku/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MarinDushku/MarinDushku/output/github-contribution-grid-snake.svg" />
+</picture>
